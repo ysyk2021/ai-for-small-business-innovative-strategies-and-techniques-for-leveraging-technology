@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in Operations Management
-===========================================================================================================================================
+
 
 In the previous chapter, we discussed best practices for implementing AI in operations management. In this chapter, we will provide case studies of successful AI implementations in inventory management, supply chain optimization, and predictive maintenance.
 

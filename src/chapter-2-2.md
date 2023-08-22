@@ -1,5 +1,4 @@
-Types of AI used for small businesses
-=====================================================================================
+
 
 Artificial Intelligence (AI) has numerous applications for small businesses, including automation, personalization, optimization, and growth. However, before implementing AI, it's essential to understand the different types of AI used in small businesses. In this chapter, we will discuss some common types of AI that small businesses can leverage.
 
