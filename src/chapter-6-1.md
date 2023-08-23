@@ -1,5 +1,4 @@
 
-
 AI provides numerous opportunities for small businesses to optimize their operations management, from automating tasks to providing predictive analytics. In this chapter, we will provide an overview of the various AI applications for operations management.
 
 Inventory Management
