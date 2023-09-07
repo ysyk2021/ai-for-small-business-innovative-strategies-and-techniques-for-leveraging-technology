@@ -8,3 +8,7 @@ This book, "AI for Small Business: Innovative Strategies and Techniques for Leve
 Through the insights shared in this book, small businesses can gain a better understanding of the potential of AI and how to leverage it effectively to drive growth. By learning from successful case studies and understanding the legal and regulatory considerations, small businesses can stay ahead of the curve and compete in today's rapidly evolving digital landscape.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
