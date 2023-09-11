@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Inventory Management, Supply Chain Optimization, and Predictive Maintenance
-============================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
